@@ -1,0 +1,5 @@
+﻿  230709025_Emirhan_Alptekin.cpp
+C:\Users\emirh\OneDrive\Desktop\Proje\230709025_Emirhan_Alptekin\230709025_Emirhan_Alptekin.cpp(146,12): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\emirh\OneDrive\Desktop\Proje\230709025_Emirhan_Alptekin\230709025_Emirhan_Alptekin.cpp(191,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\emirh\OneDrive\Desktop\Proje\230709025_Emirhan_Alptekin\230709025_Emirhan_Alptekin.cpp(255,10): warning C4101: 'tekrar': yerel değişken başvurusu kaldırıldı
+  230709025_Emirhan_Alptekin.vcxproj -> C:\Users\emirh\OneDrive\Desktop\Proje\230709025_Emirhan_Alptekin\x64\Debug\230709025_Emirhan_Alptekin.exe
