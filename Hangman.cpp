@@ -318,7 +318,7 @@ int main()
 
 
 
-		} while (anasayac < 4);
+		} while (yanlisGirilenHarfSayisi < 4);
 
 		cout << endl;
 		cout << "Kelime " << secilenkelime << " \n";

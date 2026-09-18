@@ -8,7 +8,7 @@ A simple console Hangman game written in C++ — my first C++ project.
 
 </div>
 
-> Built without AI assistance — written entirely from scratch.
+> Originally written without AI assistance, entirely from scratch; later maintenance fixes were AI-assisted.
 
 ---
 
@@ -30,8 +30,10 @@ Turkish ("Adam Asmaca" is Turkish for Hangman).
 - The game randomly selects a word and shows one `_` per letter.
 - Enter a letter to guess it; matched letters are revealed (case-insensitive).
 - Each wrong letter adds a part to the hangman (head, body, arms, legs).
-- A round ends after four guesses, and the word is then revealed.
-- Press `1` instead of a letter to guess the full word.
+- You have 4 wrong guesses before the game ends; correct letters don't count
+  against you. When the game ends, the word is revealed.
+- Press `1` instead of a letter to guess the full word — this is how you win,
+  even once every letter has been revealed.
 - Press `2` when asked to play again.
 
 ## Getting started
